@@ -1,0 +1,36 @@
+.container {
+    margin: 0 auto;
+    width: 850px;
+    height: 790px;
+    background-color: #3F3D3A;
+    border-radius: 15px;
+}
+.padding {
+    padding: 20px;
+}
+.chees-field {
+    float: left;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    font-size: 80px;
+
+}
+.field-black {
+    background-color: #A88867;
+}
+.field-white {
+    background-color: #E9D8B6;
+}
+.text-box {
+    font-size: 30px;
+    color: lightgray;
+}
+.margin-left {
+    margin-left: 90px; 
+}
+.number {
+    text-align: right;
+    line-height: 90px;
+    
+}
